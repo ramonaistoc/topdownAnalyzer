@@ -1,0 +1,7 @@
+aaba
+3 3
+a b c
+S A B
+S ac|aa|SB|
+B aa|bb|ba|
+A ab|
